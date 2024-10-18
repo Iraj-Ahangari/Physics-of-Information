@@ -1,8 +1,3 @@
-# Your Project Title
-
-Here’s a description you can use or adapt for your collection of materials about information theory, the physics of information, and related mathematics, applications, and research papers:
-
----
 
 ### **Information Theory, Physics of Information, and Applications**
 
