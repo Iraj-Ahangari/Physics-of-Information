@@ -17,3 +17,8 @@ This repository is a comprehensive collection of resources related to **informat
 
 This repository aims to serve as a central hub for those studying or researching the intersection of information theory and physics, providing a platform for deepening knowledge and contributing to ongoing discussions in the field.
 
+## Available Resources
+
+- [Books on Information Theory and Physics of Information](books.md)
+- Research Papers
+- Courses and Tutorials
